@@ -1,0 +1,1 @@
+- make an if statement in include/card.html to allow for no redirect_url
