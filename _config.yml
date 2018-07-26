@@ -28,7 +28,7 @@ navigation: # Navigation links
 tagline: >
   Welcome to The Swarthmore College Computer Science Society (SCCS). We create cool projects and maintain many student used services. Please look below at our highlighted projects!
 
-hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: posts/swat.png # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: your-email@domain.com # email for form submission
 
