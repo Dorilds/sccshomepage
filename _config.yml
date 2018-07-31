@@ -22,6 +22,7 @@ url: "https://janczizikow.github.io/" # the base hostname & protocol for your si
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
+  - {name: 'GUTS', link: 'https://guts.sccs.swarthmore.edu/dash/'}
   - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
 
