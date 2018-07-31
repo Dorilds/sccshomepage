@@ -8,9 +8,9 @@ Have any suggestions for projects to do? Contact us below! We would love to hear
 
 All suggestions are welcome.
 
-### Example Formspree contact form with validation and reCaptcha
+### Contact Us!
 
-Fill in the form or [email me](mailto:{{site.email}}) to discuss your next project.
+Fill in the form [email us](mailto:staff@sccs.swarthmore.edu).
 
 {% include form.html %}
 
