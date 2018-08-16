@@ -1,1 +1,3 @@
 - make an if statement in include/card.html to allow for no redirect_url
+- figure out whats wrong with the images that makes them not display
+- ALL IMAGES Including the hero image that should display under the main swarthmore title
